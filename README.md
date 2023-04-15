@@ -13,7 +13,7 @@ This repository has the following files and folders:
 ## How to use this repository
 1. Create folders similar to the shared folder and include the appropriate path into tcl script.
 2. Open terminal.
-3. cd <to the location where all folders are stored>
+3. cd "to the location where all folders are stored"
 4. Run "genus -legacy_ui -files ./Scripts/script_MESI.tcl"
 
 Once synthesis is complete all the reports will be stored in the Synthesis folder along with the Synthesized netlist in the Design/Post_Synth folder
